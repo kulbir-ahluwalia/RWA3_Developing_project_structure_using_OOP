@@ -9,7 +9,7 @@ Overview
 
 Output of the program is :-
 
-![Output of the program](/home/kulbir/Desktop/RWA3-Group5/Output.png)
+![Output of the program](/home/kulbir/Desktop/RWA3-Group5/output.png)
 
 
 
