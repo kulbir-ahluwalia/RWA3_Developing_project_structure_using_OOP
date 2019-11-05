@@ -14,22 +14,22 @@ rwa3::LandBasedRobot::~LandBasedRobot()
 
 void rwa3::LandBasedRobot::GoUp(int x, int y)
 {
-	std::cout << "LandBasedRobot::GoUp called" << std::endl;
+	std::cout << "LandBasedRobot::GoUp is called" << std::endl;
 }
 
 void rwa3::LandBasedRobot::GoDown(int x, int y)
 {
-	std::cout << "LandBasedRobot::GoDown called" << std::endl;
+	std::cout << "LandBasedRobot::GoDown is called" << std::endl;
 }
 
 void rwa3::LandBasedRobot::TurnLeft(int x, int y)
 { 
-	std::cout << "LandBasedRobot::TurnLeft called" << std::endl;
+	std::cout << "LandBasedRobot::TurnLeft is called" << std::endl;
 }
 
 void rwa3::LandBasedRobot::TurnRight(int x, int y)
 {
-	std::cout << "LandBasedRobot::TurnRight called" << std::endl;
+	std::cout << "LandBasedRobot::TurnRight is called" << std::endl;
 }
 
 void rwa3::LandBasedRobot::PickUp(std::string)
