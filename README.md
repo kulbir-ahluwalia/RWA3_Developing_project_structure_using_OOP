@@ -8,7 +8,7 @@ Overview
 ========
 
 Output of the program is :-
-
+(See raw code for detailed commands)
 #For displaying image in GitHub
 
 
