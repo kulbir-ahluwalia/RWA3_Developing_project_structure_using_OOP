@@ -9,9 +9,10 @@ Overview
 
 Output of the program is :-
 
-#for displaying image in GitHub
+//For displaying image in GitHub
 <img src="output.png" class="img-responsive" alt=""> </div>
 
+//For displaying image using Doxygen
 ![Output of the program](/home/kulbir/Desktop/RWA3-Group5/output.png)
 
 
